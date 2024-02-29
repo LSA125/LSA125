@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔍 I'm all about the nitty-gritty of programming, especially when it comes to low-level languages like C++ and C. From squeezing out every bit of performance to optimizing algorithms, I'm all in for the challenge.
+🔍 I'm all about the nitty-gritty of programming, especially when it comes C++ and C. I love squeezing the performance out of my programs, even when I have to delve into the world of x86 assembly to make sure the program is cmov-ing and not cmp-jumping.
 
-💻 But hey, I'm not just a low-level wizard! I also love the flexibility of Java and Python. Whether it's building sturdy back-end systems or scripting cool apps, I'm all about making things work seamlessly.
+💻 As much as I love low level programming, Java, Javascript, and Python are my go to languages when it comes to making real-world applications.
 
-⚙️ I'm chasing my dream of becoming a back-end engineer, though I do dabble in front-end development when its needed.
+⚙️ I'm chasing my dream of becoming a back-end engineer, though I do dabble in Angular for my front-ends.
