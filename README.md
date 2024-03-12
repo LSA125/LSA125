@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-C++ and Python developer here. I focus most of my developer free time optimizing low level code, and automating scripts with python. 
+An ambitious and dedicated aspiring software engineer with a passion for web technology. Currently pursuing a degree in Computer Science at Simon Fraser University. Eager to apply my skills and knowledge in a internship role to contribute to real-world projects and gain invaluable industry experience.
 
-I love exploring new technologies and have a solid foundation in web development tools like HTML, CSS and Javascript.
+I am strongly interested in areas of networks, security, and web development. I have a solid foundation of web technology like HTML, CSS, JavaScript, and SQL along with experience with frameworks like React/Angular and .NET/Node.js. I love creating and optimizing solutions with C++, and doing CTFs.
